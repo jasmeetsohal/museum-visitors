@@ -1,5 +1,5 @@
 # MUSEUM VISITORS
-### How to run on your machine?
+## How to run on your machine?
 npm intall and npm start
 
 #### Sample API call
